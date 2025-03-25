@@ -1,6 +1,7 @@
 import emailjs from "emailjs-com";
 import iziToast from "izitoast";
-import i18next from "i18next";
+import i18next from "/node_modules/i18next/dist/esm/i18next.js";
+
 
 export function sendMessageToEmail() {
     document.getElementById("contactForm").addEventListener("submit", function (event) {
