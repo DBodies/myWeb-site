@@ -1,6 +1,7 @@
-import iziToast from "izitoast";
-import i18next from "/node_modules/i18next/dist/esm/i18next.js";
+import * as emailjs from "emailjs-com"; // ✅ Правильный вариант
 import "izitoast/dist/css/iziToast.min.css";
+import * as iziToast from "izitoast"; // ✅ Правильный вариант
+import i18next from "/node_modules/i18next/dist/esm/i18next.js";
 
 
 export function notification() {
