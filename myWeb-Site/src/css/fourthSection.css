@@ -1,0 +1,65 @@
+.fourthSection-title {
+  color: var(--white-color);
+  font-weight: 400;
+  font-size: 80px;
+  text-align: center;
+}
+
+.wrapperForSkills {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 64px;
+}
+
+.wrapperForSkills .nameOfSkills15 {
+}
+
+.wrapperForSkills p {
+  color: var(--white-color);
+  font-weight: 400;
+font-size: 48px;
+}
+
+.nameOfSkills {
+  text-align: center;
+}
+.wrapperForFirstRaw {
+  display: flex;
+  justify-content: center;
+  gap: 640px;
+}
+
+.wrapperForSecondRaw {
+  display: flex;
+  justify-content: center;
+  gap: 340px  ;
+} 
+
+.nameOfSkills5 {
+  position: relative;
+    left: -50px;
+}
+
+.wrapperForThirdRaw {
+    display: flex;
+  justify-content: center;
+  gap: 400px;
+}
+
+.wrapperForFourthRaw {
+      display: flex;
+  justify-content: center;
+  gap: 400px;
+
+}
+
+.wrapperForFifthRaw {
+      display: flex;
+  justify-content: center;
+  gap: 600px;
+}
+
+.lastSkills {
+  text-align: center;
+}
