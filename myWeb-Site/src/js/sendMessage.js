@@ -1,6 +1,6 @@
-import * as emailjs from "emailjs-com"; // ✅ Правильный вариант
+import * as emailjs from "emailjs-com"; 
 import "izitoast/dist/css/iziToast.min.css";
-import * as iziToast from "izitoast"; // ✅ Правильный вариант
+import * as iziToast from "izitoast"; 
 import i18next from "/node_modules/i18next/dist/esm/i18next.js";
 
 
